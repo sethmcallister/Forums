@@ -21,7 +21,7 @@
     "url": "git+https://github.com/sethmcallister/Forums.git"
   },
   "author": "Seth McAllister",
-  "license": "ISC",
+  "license": "APGL-3.0",
   "bugs": {
     "url": "https://github.com/sethmcallister/Forums/issues"
   },

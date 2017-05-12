@@ -7,8 +7,8 @@ var UserSchema = new Schema(
         _id: String,
         lastName: String,
         group: String,
-        Posts: [],
-        Replies: []
+        posts: [],
+        replies: []
     }
 )
 
